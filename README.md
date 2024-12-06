@@ -1,5 +1,5 @@
 # Time-Series-and-Sequence-Learning
-
+![Time Series)](https://img.shields.io/badge/Time-Serie-blue)
 ## Overview
 This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning**. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
 
