@@ -20,15 +20,15 @@ The course provides knowledge and practical applications in the following topics
 ## Requirements:  
 This project requires the following dependencies:  
 
-- Python ![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)  
-- Jupyter Notebook ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+- Python [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/)      
+- Jupyter Notebook [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)    
 - numpy==1.26.4 [![NumPy](https://img.shields.io/badge/numpy-1.26.4-blue?logo=python)](https://numpy.org/)    
-- scipy ![SciPy](https://img.shields.io/badge/scipy-latest-blue?logo=scipy)  
-- matplotlib ![Matplotlib](https://img.shields.io/badge/matplotlib-latest-blue?logo=python)  
-- scikit-learn ![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue?logo=scikit-learn)  
-- pandas ![Pandas](https://img.shields.io/badge/pandas-latest-blue?logo=pandas)  
-- tensorflow==2.16.1 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.16.1-orange?logo=tensorflow)  
-- keras ![Keras](https://img.shields.io/badge/Keras-latest-red?logo=keras)  
+- scipy [![SciPy](https://img.shields.io/badge/scipy-latest-blue?logo=scipy)](https://scipy.org/)  
+- matplotlib [![Matplotlib](https://img.shields.io/badge/matplotlib-latest-blue?logo=python)](https://matplotlib.org/)  
+- scikit-learn [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue?logo=scikit-learn)](https://scikit-learn.org/1.5/install.html)  
+- pandas [![Pandas](https://img.shields.io/badge/pandas-latest-blue?logo=pandas)](https://pandas.pydata.org/)    
+- tensorflow==2.16.1 [![TensorFlow](https://img.shields.io/badge/tensorflow-2.16.1-orange?logo=tensorflow)](https://www.tensorflow.org/)  
+- [keras ![Keras](https://img.shields.io/badge/Keras-latest-red?logo=keras)](https://pypi.org/project/keras/)    
 
 To install the dependencies, run:  
 ```bash
