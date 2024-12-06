@@ -37,14 +37,14 @@ This project requires the following dependencies:
 ## Installation Instructions  
 1. Clone the repository:  
    
-   ```bash
+```bash
 git clone https://github.com/silakilicoglu/Time-Series-and-Sequence-Learning.git  
 cd Time-Series-and-Sequence-Learning  
 ```
 
 2. Create a virtual environment:  
 
-   ```bash
+```bash
 python -m venv venv  
 source venv/bin/activate  # On Windows: venv\Scripts\activate  
 ```
@@ -56,8 +56,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage  
-To run the Jupyter notebooks:
+To run the Jupyter notebooks:  
 ```bash
-jupyter notebook
+jupyter notebook  
 ```
-Then, navigate to the desired notebook and open it.
+Then, navigate to the desired notebook and open it.  
