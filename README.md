@@ -44,9 +44,15 @@ cd Time-Series-and-Sequence-Learning
 
 2. Create a virtual environment:  
 
+-On Windows:  
 ```bash
 python -m venv venv  
-source venv/bin/activate  # On Windows: venv\Scripts\activate  
+venv\Scripts\activate  
+```  
+-On Linux/macOs:  
+```bash
+python -m venv venv
+source venv/bin/activate 
 ```
 
 3. Install dependencies:  
@@ -57,7 +63,8 @@ pip install -r requirements.txt
 
 ## Usage  
 To run the Jupyter notebooks:  
+1. Launch Jupyter Notebook:  
 ```bash
 jupyter notebook  
 ```
-Then, navigate to the desired notebook and open it.  
+2. Navigate to the desired notebook in the Jupyter Interface and open it.  
