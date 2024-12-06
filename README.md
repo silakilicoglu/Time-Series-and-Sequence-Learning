@@ -1,5 +1,5 @@
 # Time-Series-and-Sequence-Learning
-![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)
+
 ## Overview
 This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning**. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
 
@@ -20,7 +20,7 @@ The course provides knowledge and practical applications in the following topics
 ## Requirements:  
 This project requires the following dependencies:  
 
-- Python 3.x  
+- Python ![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)  
 - Jupyter Notebook  
 - numpy==1.26.4  
 - scipy  
