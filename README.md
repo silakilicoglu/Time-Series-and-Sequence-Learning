@@ -42,20 +42,19 @@ git clone https://github.com/silakilicoglu/Time-Series-and-Sequence-Learning.git
 cd Time-Series-and-Sequence-Learning  
 ```
 
-2. Create a virtual environment:  
+2. Create a Conda environment:  
 
--On Windows:  
 ```bash
-python -m venv venv  
-venv\Scripts\activate  
-```  
--On Linux/macOs:  
-```bash
-python -m venv venv
-source venv/bin/activate 
+conda create --name time_series_env python=3.9  
 ```
 
-3. Install dependencies:  
+3. Activate Conda environment:
+
+```bash
+conda activate time_series_env    
+```
+
+4. Install dependencies:  
    
 ```bash
 pip install -r requirements.txt  
