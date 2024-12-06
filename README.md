@@ -1,5 +1,5 @@
 # Time-Series-and-Sequence-Learning
-![CourseCode](https://img.shields.io/badge/Course-732A80-yellow)
+![Course Code](https://img.shields.io/badge/Course%20Code-732A80-yellow)
 ![Institution](https://img.shields.io/badge/Institution-Linköping%20University-blue)
 
 ## Overview
