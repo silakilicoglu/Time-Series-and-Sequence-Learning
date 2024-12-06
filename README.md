@@ -1,9 +1,6 @@
 # Time-Series-and-Sequence-Learning
-![Course](https://img.shields.io/badge/Course-Time%20Series%20and%20Sequence%20Learning-yellow)
+![Course](https://img.shields.io/badge/Course-732A80-Time%20Series%20and%20Sequence%20Learning-yellow)
 ![Institution](https://img.shields.io/badge/Institution-Linköping%20University-blue)
-![Forecasting](https://img.shields.io/badge/Feature-Forecasting-brightgreen)
-![Kalman Filtering](https://img.shields.io/badge/Feature-Kalman%20Filtering-blue)
-![RNN](https://img.shields.io/badge/Feature-RNN-orange)
 
 ## Overview
 This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning**. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
