@@ -35,17 +35,22 @@ This project requires the following dependencies:
 ---
 
 ## Installation Instructions  
-1. Clone the repository:  
+1. Clone the repository:
+   
    ```bash
 git clone https://github.com/silakilicoglu/Time-Series-and-Sequence-Learning.git
 cd Time-Series-and-Sequence-Learning
 ```
-2. Create a virtual environment:  
+
+2. Create a virtual environment:
+
    ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```  
-3. Install dependencies:  
+```
+
+3. Install dependencies:
+   
 ```bash
 pip install -r requirements.txt  
 ```
