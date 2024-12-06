@@ -28,7 +28,7 @@ This project requires the following dependencies:
 - scikit-learn [![scikit-learn](https://img.shields.io/badge/scikit--learn-latest-blue?logo=scikit-learn)](https://scikit-learn.org/1.5/install.html)  
 - pandas [![Pandas](https://img.shields.io/badge/pandas-latest-blue?logo=pandas)](https://pandas.pydata.org/)    
 - tensorflow==2.16.1 [![TensorFlow](https://img.shields.io/badge/tensorflow-2.16.1-orange?logo=tensorflow)](https://www.tensorflow.org/)  
-- keras ![Keras](https://img.shields.io/badge/Keras-latest-red?logo=keras)[(https://pypi.org/project/keras/)]      
+- keras [![Keras](https://img.shields.io/badge/Keras-latest-red?logo=keras)](https://pypi.org/project/keras/)        
 
 To install the dependencies, run:  
 ```bash
