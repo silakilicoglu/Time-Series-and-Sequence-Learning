@@ -3,7 +3,7 @@
 ![Institution](https://img.shields.io/badge/Institution-Linköping%20University-blue)
 
 ## Overview
-This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning**. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
+This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning** at Linköping University. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
 
 ---
 
@@ -32,6 +32,27 @@ This project requires the following dependencies:
 - tensorflow==2.16.1 [![TensorFlow](https://img.shields.io/badge/tensorflow-2.16.1-orange?logo=tensorflow)](https://www.tensorflow.org/)  
 - keras [![Keras](https://img.shields.io/badge/Keras-latest-red?logo=keras)](https://pypi.org/project/keras/)        
 
-To install the dependencies, run:  
+---
+
+## Installation Instructions  
+1. Clone the repository:  
+   ```bash
+git clone https://github.com/silakilicoglu/Time-Series-and-Sequence-Learning.git
+cd Time-Series-and-Sequence-Learning
+```
+2. Create a virtual environment:  
+   ```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```  
+3. Install dependencies:  
 ```bash
 pip install -r requirements.txt  
+```
+
+## Usage  
+To run the Jupyter notebooks:
+```bash
+jupyter notebook
+```
+Then, navigate to the desired notebook and open it.
