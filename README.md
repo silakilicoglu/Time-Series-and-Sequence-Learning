@@ -20,8 +20,8 @@ The course provides knowledge and practical applications in the following topics
 ## Requirements:  
 This project requires the following dependencies:  
 
-- Python [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/)      
-- Jupyter Notebook [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)    
+- python [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/)      
+- jupyter notebook [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)    
 - numpy==1.26.4 [![NumPy](https://img.shields.io/badge/numpy-1.26.4-blue?logo=python)](https://numpy.org/)    
 - scipy [![SciPy](https://img.shields.io/badge/scipy-latest-blue?logo=scipy)](https://scipy.org/)  
 - matplotlib [![Matplotlib](https://img.shields.io/badge/matplotlib-latest-blue?logo=python)](https://matplotlib.org/)  
