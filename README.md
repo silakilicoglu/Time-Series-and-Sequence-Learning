@@ -1,7 +1,7 @@
 # Time-Series-and-Sequence-Learning
 ![Course Code](https://img.shields.io/badge/Course%20Code-732A80-yellow)
 ![Institution](https://img.shields.io/badge/Institution-Linköping%20University-blue)
-![Master's Degree](https://img.shields.io/badge/Master's%20Degree-Statistics%20&%20Machine%20Learning-red)
+![Master's Degree](https://img.shields.io/badge/Master's%20Degree-Statistics%20&%20Machine%20Learning-lightblue)
 
 ## Overview
 This repository contains lab projects for the graduate-level course **Time Series and Sequence Learning** at Linköping University. The course focuses on state-of-the-art methods for working with sequential data, including its exploration, transformation, modeling, and evaluation.
